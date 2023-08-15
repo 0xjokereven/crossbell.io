@@ -347,6 +347,34 @@ importers:
         specifier: 22.1.0
         version: 22.1.0
 
+  sites/gmgn.io:
+    dependencies:
+      lodash.once:
+        specifier: 4.1.1
+        version: 4.1.1
+      phoenix:
+        specifier: 1.7.6
+        version: 1.7.6
+      react-flip-numbers:
+        specifier: 3.0.8
+        version: 3.0.8(react-dom@18.2.0)(react-simple-animate@3.5.2)(react@18.2.0)
+      scrollex:
+        specifier: 2.0.1
+        version: 2.0.1(framer-motion@10.12.17)(react-dom@18.2.0)(react@18.2.0)
+    devDependencies:
+      '@types/jsdom':
+        specifier: 21.1.1
+        version: 21.1.1
+      '@types/lodash.once':
+        specifier: 4.1.7
+        version: 4.1.7
+      '@types/phoenix':
+        specifier: 1.6.0
+        version: 1.6.0
+      jsdom:
+        specifier: 22.1.0
+        version: 22.1.0
+
 packages:
 
   /@adraffy/ens-normalize@1.9.0:
